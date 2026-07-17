@@ -1,0 +1,43 @@
+
+# ==========================
+# Python
+# ==========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environments
+venv/
+.venv/
+backend/venv/
+
+# Environment files
+.env
+
+# ==========================
+# Node
+# ==========================
+node_modules/
+dist/
+
+# ==========================
+# macOS
+# ==========================
+.DS_Store
+
+# ==========================
+# VS Code
+# ==========================
+.vscode/
+
+# ==========================
+# Uploads & Outputs
+# ==========================
+backend/app/uploads/
+backend/app/outputs/
+
+# YOLO
+runs/
+
+# Logs
+*.log
